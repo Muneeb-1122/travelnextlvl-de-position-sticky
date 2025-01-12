@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       scrollTrigger: {
         trigger: "#text",
         start: "top 90%",
-        end: "60% 60%",
+        end: "bottom 90%",
         scrub: true,
       },
       opacity: 0.3,
